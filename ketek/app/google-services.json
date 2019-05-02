@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "59034264698",
+    "firebase_url": "https://lazismu-779b4.firebaseio.com",
+    "project_id": "lazismu-779b4",
+    "storage_bucket": "lazismu-779b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59034264698:android:4a90f876a92797b4",
+        "android_client_info": {
+          "package_name": "com.example.lazismu.ketek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59034264698-254l1lo9f79dt8qjdd6oq4h69ivtvv70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yqSQLepmNo2p9l4MerzPucUJaRe0aHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

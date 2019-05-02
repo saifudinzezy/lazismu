@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_kalkulator"
+    tools:context=".kalkugaji">
+
+    <TextView
+        android:id="@+id/txthitung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hitung Zakat Anda"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="25dp"/>
+
+    <LinearLayout
+        android:id="@+id/layo1"
+        android:layout_below="@+id/txthitung"
+        android:layout_marginStart="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textColor="#000"
+            android:text="Zakat Emas"/>
+       <EditText
+           android:id="@+id/edmas"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:textColor="#000"
+           android:hint="2.5%"
+           android:inputType="numberDecimal"
+           android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:text="Zakat Pertanian Tadah Hujan"/>
+        <EditText
+            android:id="@+id/edpertanian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:hint="10%"
+            android:inputType="numberDecimal"
+            android:textColor="#000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:text="Zakat Pertanian Irigasi"/>
+        <EditText
+            android:id="@+id/edpertanian1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:hint="5%"
+            android:inputType="numberDecimal"
+            android:textColor="#000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="Zakat Barang/Harta Temuan"/>
+        <EditText
+            android:id="@+id/edtemuan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:hint="20%"
+            android:inputType="numberDecimal"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:text="Zakat Perdagangan"/>
+        <EditText
+            android:id="@+id/edperdagangan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:hint="2.5%"
+            android:inputType="numberDecimal"
+            android:textColor="#000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:text="Zakat Binatang Ternak"/>
+        <EditText
+            android:id="@+id/edternak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:hint="2.5%"
+            android:inputType="numberDecimal"
+            android:textColor="#000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:text="Zakat Barang Galian"/>
+        <EditText
+            android:id="@+id/edgalian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:hint="2.5%"
+            android:textColor="#000"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/butkalkulasi"
+        android:layout_below="@+id/layo1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kalkulasi"
+        android:background="@color/colorPrimary"/>
+    <TextView
+        android:layout_below="@id/txthitung"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginStart="200dp"
+        android:text="Harga Saat ini :"/>
+    <EditText
+        android:id="@+id/edhargamas"
+        android:layout_below="@id/txthitung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="290dp"
+        android:enabled="false"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">LAZISMU</string>
+    <string name="arti">Saya Berniat Mengeluarkan harta zakat dan atau sedekah karena Allah.</string>
+    <string name="niat">Nawaitu an akhruja al-zakata, au al-sodakota \n lilaahi ta,aala</string>
+    <string name="sumbangan">Dana yang terkumpul akan diSalurkan kePihak yang Membutuhkan.</string>
+    <string name="rekening">Silahkan Transfer Jumlah Donasi Anda ke <!--\n No.Rekening : 707-384-570-4 \n Atas Nama : BSM
+        \n No.Rekening : 511-000-590-8 \n Atas Nama : BMI
+        \n No.Rekening : 505-300-517-9 \n Atas Nama : Bank Jateng Syariah-->
+        \n No.Rekening : 020-501-057-85 \n Atas Nama : Baitul Tamwil Muhammadiyah
+    </string><string name="rekening2">Silahkan Transfer Jumlah Donasi Anda ke <!--\n No.Rekening : 707-384-570-4 \n Atas Nama : BSM
+        \n No.Rekening : 511-000-590-8 \n Atas Nama : BMI
+        \n No.Rekening : 505-300-517-9 \n Atas Nama : Bank Jateng Syariah-->
+        \n No.Rekening : 020-000-135-2 \n Atas Nama : Baitul Tamwil Muhammadiyah
+    </string>
+    <string name="upload">Silahkan Upload Bukti Transfer \n \t \t \t \t \t Untuk Konfirmasi</string>
+    <string name="zgaji">Zakat Gaji /Profesi adalah \n zakat yang dikeluarkan dari hasil usaha yang halal yang dapat mendatangkan hasil (uang) yang relatif banyak dengan cara yang  mudah, melalui suatu  keahlian  tertentu dan sudah mencapai nishab. \n Nisabnya adalah jika pendapatan satu tahun lebih dari senilai 85gr emas (harga emas sekarang @se-gram Rp. 300.000) dan zakatnya dikeluarkan setahun sekali sebesar 2,5% setelah dikurangi kebutuhan pokok. \n Contoh: Pemasukan gaji pak Nasir Rp. 2.300.000/bulan, nishab (520 kg beras, @Rp. 4000/kg = Rp. 2.080.000). Dengan demikian maka pak Nasir wajib zakat Rp. 2.300.000 x 2,5% = sebesar Rp. 57.500,- \n
+
+Alhasil, jika Bapak Nasir memiliki penghasilan gaji perbulan: Rp 3.000.000,- asumsi nishab dengan 520 kg beras x @ Rp. 4000 = Rp 2.080.000, Berarti Bapak sudah melebihi nishab dan wajib zakat sebesar Rp. 3.000.000 x 2,5 % =Rp. 75.000,- (wajib zakat yang dikeluarkan per bulan) atau boleh juga menunaikannya sebesar Rp 900.000 per tahun). \n
+
+Sebaliknya, jika pendapatan gaji Pak Nasir kurang dari nishab (Rp 2.080.000), maka bapak tidak wajib membayar zakat dan dianjurkan bersedekah.</string>
+    <string name="ztani">Yaitu zakat dari pertanian. Semua hasil bumi atau pertanian wajib dikeluarkan zakatnya, mau itu padi, buah-buahan, atau sayur mayur. \n
+                    Anda wajib mengeluarkan zakat ziro,ah ketika sudah mencapai nishab yaitu 5 wasaq (650 Kg). Adapun kadar zakatnya ada yang 10% dan ada yang 5%, dilihat dari cara pengairannya.
+                    Pertama, jika pengairannya alamiah (oleh hujan atau mata air) maka kadar atau besar zakat yang harus dikeluarkan adalah 10%. \n
+                    Kedua, jika pengairannya oleh tenaga manusia atau binatang maka kadar zakatnya adalah 5%. \n
+                    Dan waktu pengeluaran zakatnya adalah saat dipanen.</string>
+    <string name="zgalian">Yang dimaksud ma,adin adalah segala macam yang dikeluarkan dari bumi yang berharga seperti timah besi emas perak dan lain lain.\n
+                    Kadar zakatnya adalah 2,5%. Tidak ada batas minimal (nishab), ketika mendapatkannya maka langsung dikeluarkan zakatnya.</string>
+    <string name="zhk">Tidak ada nishab pada zakat rikaz, ketika anda mendapatkan atau menemukan harta karun maka saat itu juga dikeluarkan zakatnya sebanyak 20% dan hanya sekali saja.</string>
+    <string name="zdg">Ketentuan zakat ini adalah tidak ada nishab, diambil dari modal (harga beli), dihitung dari barang yang terjual sebesar 2,5%.</string>
+    <string name="zhw">Seorang yang memelihara ternak (beternak) wajib mengeluarkan zakatnya. Hewan ternak disini adalah hewan yang akan diambil manfaatnya. Hewan hewan tersebut yakni Unta, Kambing/biri-biri, sapi/kerbau.\n Besar atau banyak zakat yang harus dibayar yaitu sebagai berikut: \n \n Ternak Unta\n
+5 ekor = 1 ekor kambing \n
+25-35 ekor = 1 ekor unta betina berumur 1 tahun \n
+36-45 ekor = 1 ekor unta jantan berumur masik tahun ke 3 \n
+46 - 60 ekor = 1 ekor unta betina berumur masuk tahun ke 4 \n
+61-75 ekor = 1 ekor unta betina berumur masuk tahun ke 5 \n
+76-90 ekor = 2 ekor unta jantan berumur masuk tahun ke 3 \n
+91-120 ekor = 2 ekor unta betina yang sudah keluar air susunya \n \n
+Ternak Kerbau \n
+30 ekor = 1 ekor sapi/kerbau berumur 1 tahun \n
+40 ekor = 1 ekor sapi/kerbau berumur 2 tahun \n \n
+Ternak Kambing/Domba/Biri-Biri \n
+40-80 ekor = 1 ekor \n
+121-200 ekor = 2 ekor \n
+201-300 ekor = 3 ekor \n
+dan seterusnya (setiap 100 ekor di tambah satu ekor zakatnya)</string>
+    <string name="zmas">Apabila seseorang memiliki emas sejumlah 85 gram emas atau lebih, maka dia belum berkewajiban membayar zakat, kecuali jumlah 85 gram atau lebih tersebut dimiliki selama satu tahun dan tidak berkurang dari 85 gram emas. \n Adapun perak, dia memiliki nishab tersendiri yaitu 200 dirham, setara dengan 140 mitsqal, 140 mitsqal x 4,24 gram = 593,6 gram. Atau 595 gram sebagaimana ditetapkan oleh pemerintah. \n Besar zakat yang dikeluarkan adalah sebesar 2,5 % dari harta tersebut. Jadi orang tersebut terkena zakat sebesar = 2,5 % x 89,74 gram = 2,2435 gram emas.</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="masukan_alamat">Masukan Alamat</string>
+    <string name="masukan_pass">Masukan Password</string>
+    <string-array name="names">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="names1">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    <string name="title_activity_detail_berita">DetailBerita</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nominal">Nominal</string>
+    <string name="kategori">kategori</string>
+    <string name="status">Status</string>
+    <string name="tanggal_pinjam">Tanggal Pinjam</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="pesan">Pesan</string>
+    <string name="supir">Pengemudi</string>
+    <string-array name="sim">
+        <item>Tidak</item>
+        <item>Ya</item>
+    </string-array>
+</resources>

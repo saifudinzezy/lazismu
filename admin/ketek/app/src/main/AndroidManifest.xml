@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lazismu.ketek">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/ic_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".sp.Splashscreen" />
+        <activity android:name=".Tentangkami" />
+        <activity android:name=".menu.zakat.item.Profesi" />
+        <activity android:name=".menu.Ambulan" />
+        <activity android:name=".menu.item.Beasiswa" />
+        <activity android:name=".menu.item.Beasiswa2" />
+        <activity android:name=".menu.zakat.Zakat" />
+        <activity android:name=".menu.item.Bedahrumah" />
+        <activity android:name=".menu.item.Umkm" />
+        <activity android:name=".login.Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".login.SignUp" />
+        <activity android:name=".MainMenu" />
+        <activity android:name=".Harta" />
+        <activity android:name=".kalkugaji" />
+        <activity android:name=".menu.zakat.kalkuza.kalkuza" />
+        <activity android:name=".menu.Infaq" />
+        <activity android:name=".menu.Laporan" />
+        <activity android:name=".menu.Akun" />
+        <activity
+            android:name=".menu.DetailBerita"
+            android:label="@string/title_activity_detail_berita"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".menu.add.Berita"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".menu.zakat.item.Pertanian" />
+        <activity android:name=".menu.zakat.kalkuza.KalkuzaPertanian" />
+        <activity android:name=".menu.zakat.item.Perdagangan" />
+        <activity android:name=".menu.zakat.kalkuza.KalkuzaPerdagangan" />
+        <activity android:name=".menu.add.AddBerita" />
+        <activity android:name=".menu.AkunUser" />
+        <activity android:name=".menu.Menu" />
+        <activity
+            android:name=".menu.fragment.DaftarAmbulan"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".menu.add.AddAmbulan"></activity>
+    </application>
+
+</manifest>
